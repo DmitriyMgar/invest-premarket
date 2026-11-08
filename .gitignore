@@ -1,0 +1,11 @@
+# Local files and credentials do not belong in the public website repository.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
